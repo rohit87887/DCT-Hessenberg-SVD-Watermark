@@ -60,9 +60,7 @@ the images
 ---
 
 ---
-# Under Guidence Of:
 
-## Dr.Tamilarasi.K
 
 ## 📄 **Base Paper Reference**
 
