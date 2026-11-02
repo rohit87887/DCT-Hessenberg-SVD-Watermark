@@ -246,6 +246,9 @@ pip install numpy opencv-python matplotlib scipy pillow scikit-image
 
 ---
 
+## License
 
-
-
+**All Rights Reserved — not open source.** Copyright (c) 2026 S Rohit (23MIA1175).
+Published for academic evaluation and portfolio review only. No permission is granted
+to use, copy, modify or redistribute any part of this repository, including the
+accompanying manuscript. See [LICENSE](LICENSE).

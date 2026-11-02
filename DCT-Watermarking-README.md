@@ -212,4 +212,6 @@ pip install numpy opencv-python matplotlib scipy pillow scikit-image
 
 ## License
 
-Not currently specified — add a [LICENSE](LICENSE) file (e.g. MIT) if you'd like others to reuse this code freely.
+**All Rights Reserved — not open source.** This repository is published for academic
+evaluation and portfolio review only. No permission is granted to use, copy, modify or
+redistribute any part of it, including the accompanying manuscript. See [LICENSE](LICENSE).
